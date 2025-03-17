@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: "reactjs"
+  name: "reactjs-app"
   description: reactjs running on AWS S3
   annotations:
     github.com/project-slug: chitta-behera/s3-workflow
